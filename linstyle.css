@@ -122,20 +122,25 @@ list-style: none;
     margin-top: 0;
     position: sticky;
     top:75px;
+
+
 }
 .sidebar-profile-box{
     background-color: rgb(255,255,255);
     width:82%
 }
-aqw3{
-    padding: 0 30px;
+
+.sidebar-profile-info{
+    padding: 20px;
 }
+
 .sidebar-profile-info img{
     width: 90px;
     border-radius: 50%;
     background: rgb(255,255,255);
     padding: 4px;
     margin-top: -45px;
+
 
 }
 .sidebar-profile-info h3{
